@@ -4,7 +4,7 @@ This repository contains tools and commands that may help to solve a CTF challen
 
 Table of Contents:
 - Steganography [Tools](#Steganography-Tools) & [Commands](#Steganography-Commands)
-
+- OSINT [Tools](#OSINT-Tools) & [Commands](#OSINT-Commands)
 
 ---
 
@@ -26,3 +26,13 @@ mv stegsolve.jar bin/
 1. stegsolve.jar
 
 `java -jar stegsolve.jar`
+
+---
+
+## OSINT
+
+### OSINT-Tools
+
+1. [Wayback Machine](https://archive.org/web/) </br>
+
+### OSINT-Commands
