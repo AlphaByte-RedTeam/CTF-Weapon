@@ -24,4 +24,5 @@ mv stegsolve.jar bin/
 
 ### Steganography-Commands
 1. stegsolve.jar
+
 `java -jar stegsolve.jar`
