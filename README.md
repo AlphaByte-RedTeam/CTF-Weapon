@@ -6,6 +6,7 @@ Table of Contents:
 - #### Steganography: [Tools](#Steganography-Tools), [Commands](#Steganography-Commands), [Install](#Steganography-Install)
 - #### OSINT: [Tools](#OSINT-Tools), [Commands](#OSINT-Commands), [Install](#OSINT-Install)
 - #### Decoder: [Tools](#Decoder-Tools)
+- #### Cryptography: [Tools](#Cryptography-Tools)
 
 ---
 
@@ -66,6 +67,7 @@ echo "your_IG_uname" > username.conf
 echo "your_IG_pass" > pw.conf
 echo "{}" > settings.json
 ```
+---
 
 ## Decoder
 
@@ -73,3 +75,11 @@ echo "{}" > settings.json
 
 1. [Twitter Secret Messages](https://holloway.nz/steg/) </br>
 An internet tool help you to decode or encode a messages.
+
+---
+
+## Cryptography
+
+### Cryptography-Tools
+1. [Dcoder](https://www.dcode.fr/en) </br>
+A tool used to decrypt or encrypt Ciphertext.
