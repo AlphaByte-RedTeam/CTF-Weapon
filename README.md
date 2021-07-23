@@ -3,10 +3,10 @@
 This repository contains tools and commands that may help to solve a CTF challenges. Any contributions welcome. </br>
 
 Table of Contents:
-- #### [Steganography](#Steganography)
-- #### [OSINT](#OSINT)
-- #### [Decoder](#Decoder)
-- #### [Cryptography](#Cryptography)
+- #### [Steganography](##Steganography)
+- #### [OSINT](##OSINT)
+- #### [Decoder](##Decoder)
+- #### [Cryptography](##Cryptography)
 
 ---
 
