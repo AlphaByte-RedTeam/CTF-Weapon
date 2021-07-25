@@ -22,6 +22,8 @@ Is your printer spying on you? Well, the printer have its own MIC. You can check
 
 ![Yellow dots](./Image/Yellowdots.png) </br>
 
+3. [Try it online](https://tio.run/#) </br>
+Sometimes, the message is hidden using the esoteric programming language, it's one of the best online interpreted tool
 
 ### Steganography-Commands
 
