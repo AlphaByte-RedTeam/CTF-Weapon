@@ -15,7 +15,13 @@ Table of Contents:
 ### Steganography-Tools
 
 1. [stegsolve.jar](http://www.caesum.com/handbook/stego.htm) </br>
-A Java .jar tool, that'll open an image and let you as the user arrow through different renditions of the image (viewing color channels, inverted colors, and more).
+A Java .jar tool, that'll open an image and let you as the user arrow through different renditions of the image (viewing color channels, inverted colors, and more). </br> </br>
+
+2. Yellow dots Machine Identification Code </br>
+Is your printer spying on you? Well, the printer have its own MIC. You can checkout this [Link](https://www.instructables.com/Yellow-Dots-of-Mystery-Is-Your-Printer-Spying-on-/) </br>
+
+![Yellow dots](./Image/Yellowdots.png) </br>
+
 
 ### Steganography-Commands
 
@@ -40,10 +46,10 @@ mv stegsolve.jar bin/
 ### OSINT-Tools
 
 1. [Wayback Machine](https://archive.org/web/) </br>
-A machine that'll help you to see on the Internet archive like deleted twitter messages, archived post, etc.
+A machine that'll help you to see on the Internet archive like deleted twitter messages, archived post, etc. </br> </br>
 
 2. [Osintgram](https://github.com/Datalux/Osintgram) </br>
-Osintgram is an OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
+Osintgram is an OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname </br> </br>
 
 ### OSINT-Commands
 
@@ -74,7 +80,7 @@ echo "{}" > settings.json
 ### Decoder-Tools
 
 1. [Twitter Secret Messages](https://holloway.nz/steg/) </br>
-An internet tool help you to decode or encode a messages.
+An internet tool help you to decode or encode a messages. </br> </br>
 
 ---
 
@@ -82,4 +88,4 @@ An internet tool help you to decode or encode a messages.
 
 ### Cryptography-Tools
 1. [Dcoder](https://www.dcode.fr/en) </br>
-A tool used to decrypt or encrypt Ciphertext.
+A tool used to decrypt or encrypt Ciphertext. </br> </br>
